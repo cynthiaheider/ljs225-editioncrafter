@@ -10,3 +10,7 @@ enableRobotsTXT = false
 
 # Set to "WARNING" so that broken links don't break the build process. Default is "ERROR".
 refLinksErrorLevel = "WARNING"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
