@@ -1,5 +1,5 @@
 ---
-title: "Folios"
+title: "LJS 225"
 menu: "main"
 draft: false
 type: "editioncrafter"
@@ -10,3 +10,4 @@ transcriptionTypes:
     decodedtext: 'Decoded Text'
 weight: 30
 ---
+View the original text alongside its decoded text, or either in comparison with an image of the manuscript.
