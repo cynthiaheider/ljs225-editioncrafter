@@ -11,4 +11,4 @@ transcriptionTypes:
 weight: 30
 ---
 
- <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
+ <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd"></script>
