@@ -49,7 +49,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol15r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol15r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -62,7 +62,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol15r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol15r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -75,7 +75,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol15r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol15r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -88,7 +88,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol15r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol15r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -142,7 +142,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol15v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol15v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -155,7 +155,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol15v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol15v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -168,7 +168,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol15v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol15v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -181,7 +181,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol15v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol15v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -235,7 +235,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol16r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol16r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -248,7 +248,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol16r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol16r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -261,7 +261,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol16r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol16r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -274,7 +274,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol16r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol16r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -328,7 +328,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol16v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol16v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -341,7 +341,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol16v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol16v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -354,7 +354,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol16v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol16v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -367,7 +367,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol16v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol16v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -421,7 +421,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol17r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol17r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -434,7 +434,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol17r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol17r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -447,7 +447,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol17r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol17r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -460,7 +460,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol17r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol17r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -514,7 +514,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol17v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol17v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -527,7 +527,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol17v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol17v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -540,7 +540,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol17v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol17v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -553,7 +553,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol17v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol17v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -607,7 +607,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol18r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol18r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -620,7 +620,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol18r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol18r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -633,7 +633,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol18r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol18r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -646,7 +646,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol18r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol18r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -700,7 +700,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol18v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol18v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -713,7 +713,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol18v.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol18v.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -726,7 +726,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol18v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol18v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -739,7 +739,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol18v.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol18v.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -793,7 +793,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/original-text/fol19r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/originaltext/fol19r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -806,7 +806,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decoded-text/fol19r.xml",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/tei/decodedtext/fol19r.xml",
 								"format": "text/xml",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -819,7 +819,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/original-text/fol19r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/originaltext/fol19r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"
@@ -832,7 +832,7 @@
 							"type": "Annotation",
 							"motivation": "supplementing",
 							"body": {
-								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decoded-text/fol19r.html",
+								"id": "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/html/decodedtext/fol19r.html",
 								"format": "text/html",
 								"type": "TextPartial",
 								"profile": "https://github.com/cu-mkp/editioncrafter-project/text-partial-resource.md"

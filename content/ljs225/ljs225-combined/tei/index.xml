@@ -94,7 +94,7 @@
 
       </facsimile>
 
-<text xml:id="original-text">
+<text xml:id="originaltext">
       <body>
         <div>
          <pb n="1r" facs="http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs225/data/web/0204_0004_web.jpg"/>
@@ -1832,7 +1832,7 @@
         </div> 
       </body>
    </text>
-   <text xml:id="decoded-text">
+   <text xml:id="decodedtext">
       <body>
         <div>
           <pb n="15r" facs="#fol15r"/>
