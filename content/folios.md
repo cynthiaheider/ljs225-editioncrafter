@@ -3,11 +3,10 @@ title: "Folios"
 menu: "main"
 draft: false
 type: "editioncrafter"
-documentName: "BnF Ms. Fr. 640"
-documentURL: "https://cu-mkp.github.io/editioncrafter-data/fr640_3r-3v-example/iiif/manifest.json"
+documentName: "LJS 225"
+documentURL: "https://cynthiaheider.github.io/ljs225-editioncrafter/ljs225/ljs225-combined/iiif/manifest.json"
 transcriptionTypes:
-    tc: 'Diplomatic (FR)'
-    tcn: 'Normalized (FR)'
-    tl: 'Translation (EN)'
+    original-text: 'Original Text'
+    decoded-text: 'Decoded Text'
 weight: 30
 ---
