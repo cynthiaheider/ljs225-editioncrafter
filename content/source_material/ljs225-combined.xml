@@ -54,7 +54,7 @@
       </profileDesc>
    </teiHeader>
 
-      <facsimile >
+      <facsimile>
           <surface xml:id="fol15r" ulx="0" uly="0" lrx="1227" lry="1800">
             <label>Page 15 recto</label>
             <graphic mimeType="image/jpeg" url="https://cynthiaheider.github.io/ljs225-editioncrafter/source_material/jpgs/0204_0032_web.jpg" />
@@ -96,6 +96,7 @@
 
 <text xml:id="original-text">
       <body>
+        <div>
          <pb n="1r" facs="http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs225/data/web/0204_0004_web.jpg"/>
          <p>
             <lb/>Ad beatissimu<ex>m</ex> sanctissimu<ex>m</ex>q<ex>ue</ex> domi <lb/>
@@ -1828,12 +1829,13 @@
             tia  sillaba<ex>rum</ex> et sine puncto vel virgula.
          </p>
          <pb n="20r" facs="http://openn.library.upenn.edu/Data/LJSchoenbergManuscripts/ljs225/data/web/0204_0042_web.jpg"/>
-         
+        </div> 
       </body>
    </text>
    <text xml:id="decoded-text">
       <body>
-        <pb n="15r" facs="#fol15r"/>
+        <div>
+          <pb n="15r" facs="#fol15r"/>
             <p>la terra quale he asai piu potente de legente fo
                <lb/>restiere prendera partito.  Aricordo reverete
                <lb/>mente ala prelibata S. v. lecose como lepassa
@@ -2067,6 +2069,7 @@
             <lb/><hi n="superfl">vi vogliati darmi auiso de q<ex>uan</ex>to vepare .<expan>et</expan>.</hi>
             <lb/>LAUS DEO                Voluatur
          </p>
+        </div>
       </body>
   </text>
   </TEI>
