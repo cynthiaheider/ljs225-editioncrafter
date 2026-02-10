@@ -2256,7 +2256,7 @@ tei-seg {
 */
 tei-seg[type~=alter] {
   font-weight: bolder;
-  color: orange; !important
+  color: orange;
 }
 
 tei-seg[type~=original] {
