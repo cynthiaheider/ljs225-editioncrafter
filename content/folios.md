@@ -10,3 +10,5 @@ transcriptionTypes:
     decodedtext: 'Decoded Text'
 weight: 30
 ---
+
+ <script type="text/javascript" src="https://www.unpkg.com/@cu-mkp/editioncrafter-umd" ></script>
