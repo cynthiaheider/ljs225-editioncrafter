@@ -7,3 +7,6 @@ This is the repository for websites containing EditionCrafter editions. It conta
 - This can now be customized for content
 - Under “Folios,” there is the rendered TEI file of the manuscript
 - Took output of editioncrafter-cli and dropped into the dedicated directory of editioncrafter-project
+
+
+Minor change to force build
