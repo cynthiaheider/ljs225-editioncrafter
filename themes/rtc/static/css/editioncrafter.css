@@ -1836,6 +1836,11 @@ tei-hi[rend~=underline] {
   text-decoration: underline;
 }
 
+tei-hi[n~=superfl] {
+  font-weight: lighter;
+  color: rgba(0,0,0,.7)
+}
+
 tei-ident {
   font-family: Courier, monospace;
 }
@@ -2244,8 +2249,22 @@ tei-secl > *:last-child:after {
   white-space: pre;
 }
 
+/*
 tei-seg {
   outline: 0px solid transparent;
+}
+*/
+tei-seg[type~=alter] {
+  font-weight: bolder;
+  color: orange; !important
+}
+
+tei-seg[type~=original] {
+  font-weight: bold;
+}
+
+tei-seg:is(.hide) {
+  display:none;
 }
 
 tei-sense {
