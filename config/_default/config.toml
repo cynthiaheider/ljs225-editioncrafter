@@ -11,6 +11,7 @@ enableRobotsTXT = false
 # Set to "WARNING" so that broken links don't break the build process. Default is "ERROR".
 refLinksErrorLevel = "WARNING"
 
+# Cache the image files so that build time is reduced
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
