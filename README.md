@@ -1,12 +1,19 @@
-[![DOI](https://zenodo.org/badge/574679318.svg)](https://zenodo.org/badge/latestdoi/574679318)
+This repository was forked from https://github.com/cu-mkp/editioncrafter-project. It contains files related to [Litterarum simulationis liber](https://find.library.upenn.edu/catalog/9948179063503681?hld_id=resource_link_0), also known as LJS 225, a work on cryptography in the collections of the Kislak Center for Special Collections at the University of Pennsylvania. 
+- I used [Edition Crafter](https://editioncrafter.org/) to transform pre-existing TEI-encoded XML files and [images downloaded from OPenn](https://openn.library.upenn.edu/Data/0001/html/ljs225.html) into a IIIF manifest and HTML and XML files suitable to allow the digital edition pages for leaves 15r-19r of the manuscript to be displayed on the web.
+- This site deploys to GitHub Pages whenever I make a commit to the repository. The site can be viewed at https://cynthiaheider.github.io/ljs225-editioncrafter/folios/#/ec.
 
-# editioncrafter-project
-This is the repository for websites containing EditionCrafter editions. It contains the stub markdown pages and navigation for the websites.
+## What's in this repository
+- ```.github/workflows/``` contains a YAML file with instructions to build the site when a commit is made into the GitHub repository's main branch and then deploy it using GitHub Pages.
+- ```archetypes``` is a file carried over from the source repository that appears to provide a template to normalize the YAML frontmatter of a new page.
+- ```config``` and the folders and TOML files inside it are from the source repository. They contain configuration specifications for the site and can be edited to match site specifics.
+- ```content``` contains the only files that will be built when running the ```hugo``` command. If it isn't in this folder, it won't be a page on the site.
+  - The ```manifest.json``` file here is duplicated in the ```static/ljs225/ljs225-combined/iiif/``` folder. It was created when running the ```editioncrafter images``` command. I copied it here because the IIIF manifold needs to be published on the web to be accessed elsewhere.
+  - ```source_material``` contains the original image files that I ran the ```editioncrafter images``` command on to build the IIIF manifest. It also contains the original XML files that I ran ```editioncrafter process``` on.
+  - The various ```.md``` files are pages for displaying site contents, most of which were carried over from the source repository. They can be edited. Hugo uses YAML "frontmatter" at the start of each file to specify information about the page like its title and the layout it uses. The ```folios.md``` file contains the Edition Crafter viewer.
+- ```themes/rtc/``` contains the layout templates, style files, and cached files that are fetched to build each page.
+  - ```static/css/``` contains Edition Crafter's specific CSS files. These are where styles are defined for various TEI markup tags, for instance ```<tei-hi>``` which is the HTML rendered for the <hi> TEI markup
+  - ```static/ljs225/ljs225-combined``` contains all the files that were generated when the ```editioncrafter process``` command was run. I altered the XML and HTML files for leaf 16v from their original to better show the ```<seg type="original">``` and ```<seg type="alter">``` segments via CSS attributes. These files must remain in the ```static/``` folder but can be changed and reorganized however works best for you.
+  - ```.gitignore``` defines the files that you don't want uploaded into GitHub when a commit is made.
 
-- Hugo website template
-- This can now be customized for content
-- Under “Folios,” there is the rendered TEI file of the manuscript
-- Took output of editioncrafter-cli and dropped into the dedicated directory of editioncrafter-project
-
-
-Minor change to force build
+## How does this work?
+This site is built using a static site generator called [Hugo](https://gohugo.io/). They have pretty good documentation. The site can be worked on in a code editor (I use Visual Studio Code) and automatically configured to push changes into the GitHub repository. You can also build a Hugo site locally in your internet browser to do testing (see the "Quick Start" documentation for the commands required to do this). I did run into some issues trying to test locally because of the folder structure required by Hugo, but your mileage may vary.
